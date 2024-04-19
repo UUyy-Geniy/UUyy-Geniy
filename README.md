@@ -29,7 +29,7 @@
   I'm an aspiring Backend developer, and:
   <ul>
     <li>I actively participate in various student activities, from hackathons to nature outings with the university community.</li>
-    <li>Developing not just hard skills but also leadership abilities and teamwork skills is important to me.</li>
+    <li>Developing, in my opinion, is not about just hard skills but also about leadership abilities, also teamwork skills are important to me.</li>
     <li>In my work, I especially value opportunities for professional growth, a friendly team, and innovative projects that can expand my horizons.</li>
   </ul>
 - 📚 Third-year student at SPbPU in Applied Mathematics and Informatics.<br>- 🔭 Hardworking, motivated, and skilled at teamwork.<br>- ⚡ Ready for work, internships, and to create fascinating projects!</p>
