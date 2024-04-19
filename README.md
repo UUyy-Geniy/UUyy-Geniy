@@ -32,7 +32,7 @@
     <li>Developing not just hard skills but also leadership abilities and teamwork skills is important to me.</li>
     <li>In my work, I especially value opportunities for professional growth, a friendly team, and innovative projects that can expand my horizons.</li>
   </ul>
-<br><br>- 📚 Third-year student at SPbPU in Applied Mathematics and Informatics.<br>- 🔭 Hardworking, motivated, and skilled at teamwork.<br>- ⚡ Ready for work, internships, and to create fascinating projects!</p>
+- 📚 Third-year student at SPbPU in Applied Mathematics and Informatics.<br>- 🔭 Hardworking, motivated, and skilled at teamwork.<br>- ⚡ Ready for work, internships, and to create fascinating projects!</p>
 
 ###
 
