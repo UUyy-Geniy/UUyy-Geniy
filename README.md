@@ -34,6 +34,11 @@
   </ul>
 - 📚 Third-year student at SPbPU in Applied Mathematics and Informatics.<br>- 🔭 Hardworking, motivated, and skilled at teamwork.<br>- ⚡ Ready for work, internships, and to create fascinating projects!</p>
 
+
+### 📄 My Resume
+
+[![Resume](https://img.shields.io/static/v1?label=&message=Resume&color=2ea44f)](Romanchuk_Resume.pdf)
+
 ###
 
 <p align="center">
